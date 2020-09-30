@@ -1,4 +1,4 @@
-# resume-template
+# resume-template,start building resumes learn from here
 
 *A simple Jekyll + GitHub Pages powered resume template.*
 
