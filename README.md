@@ -1,4 +1,4 @@
-# resume-template
+# Resume-Template Generator
 
 *A simple Jekyll + GitHub Pages powered resume template.*
 
