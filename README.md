@@ -8,7 +8,7 @@
 
 ### Running locally
 
-To test locally, run the following in your terminal:
+To test locally,follow these steps in your terminal:
 
 1. Clone repo locally
 1. `bundle install`
@@ -17,7 +17,7 @@ To test locally, run the following in your terminal:
 
 ### Customizing
 
-First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
+First you'll want to fork the repo to your own account. Then clone it locally and customize, or by using the GitHub web editor for customization.
 
 #### Options/configuration
 
