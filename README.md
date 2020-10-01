@@ -1,3 +1,6 @@
+# This was written for educational purpose only.                                  
+# Author will be not responsible for any damage!                                
+
 # resume-template
 
 *A simple Jekyll + GitHub Pages powered resume template.*
