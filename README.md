@@ -1,5 +1,7 @@
 # resume-template
 
+Awesome Project for resume creation
+
 *A simple Jekyll + GitHub Pages powered resume template.*
 
 ![img](images/screenshot.png)
