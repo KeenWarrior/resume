@@ -10,7 +10,8 @@
 
 To test locally, run the following in your terminal:
 
-1. Clone repo locally
+1. Clone repo locally 
+  `git clonehttps://github.com/KeenWarrior/resume-generator.git`
 1. `bundle install`
 2. `bundle exec jekyll serve`
 3. Open your browser to `localhost:4000`
