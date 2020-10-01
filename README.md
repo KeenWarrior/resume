@@ -17,7 +17,7 @@ To test locally, run the following in your terminal:
 
 ### Customizing
 
-First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
+First you will want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
 
 #### Options/configuration
 
@@ -29,7 +29,7 @@ Most of the basic customization will take place in the `/_data/*.yml` files.
 
 ### Configuring with your own domain name
 
-To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) on the GitHub Help site for that topic.
+To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) On the GitHub Help site for that topic.
 
 ## License
 
