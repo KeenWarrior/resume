@@ -1,4 +1,4 @@
-# resume-template
+# your-resume-template
 
 *A simple Jekyll + GitHub Pages powered resume template.*
 
@@ -15,7 +15,7 @@ To test locally, run the following in your terminal:
 2. `bundle exec jekyll serve`
 3. Open your browser to `localhost:4000`
 
-### Customizing
+### Customizing your account
 
 First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
 
@@ -31,7 +31,7 @@ Most of the basic customization will take place in the `/_data/*.yml` files.
 
 To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) on the GitHub Help site for that topic.
 
-## License
+## License of site
 
 The code and styles are licensed under the MIT license. [See project license.](LICENSE) Obviously you should not use the content of this demo repo in your own resume. :wink:
 
