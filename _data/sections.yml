@@ -1,8 +1,8 @@
-# Lines starting with '#' in yml files are commented and will not affect data
+# The Lines starting with '#' in yml files all are comments and will not affect data .It will only for description purpose.
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
+resume_section_experiences:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
