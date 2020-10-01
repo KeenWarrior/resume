@@ -1,10 +1,10 @@
-# resume-template
+# resume/CV a job needed-template
 
 *A simple Jekyll + GitHub Pages powered resume template.*
 
 ![img](images/screenshot.png)
 
-## Docs
+## Imp/Docs
 
 ### Running locally
 
