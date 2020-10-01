@@ -8,7 +8,7 @@
 
 ### Running locally
 
-To test locally, run the following in your terminal:
+To test locally, run the following command in your terminal:
 
 1. Clone repo locally
 1. `bundle install`
