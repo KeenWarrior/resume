@@ -1,3 +1,4 @@
+Really helpful to create resumes
 # resume-template
 
 *A simple Jekyll + GitHub Pages powered resume template.*
