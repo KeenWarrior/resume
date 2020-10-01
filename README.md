@@ -10,18 +10,18 @@
 
 To test locally, run the following in your terminal:
 
-1. Clone repo locally
+1. Clone repository locally
 1. `bundle install`
 2. `bundle exec jekyll serve`
 3. Open your browser to `localhost:4000`
 
 ### Customizing
 
-First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
+First you'll have to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize it.
 
 #### Options/configuration
 
-Most of the basic customization will take place in the `/_data/*.yml` files.
+Most of the basic customizations will take place in the `/_data/*.yml` files.
 
 ### Publishing to GitHub Pages for free
 
