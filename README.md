@@ -4,7 +4,7 @@
 
 ![img](images/screenshot.png)
 
-## Docs
+## Docs (Amazing project )
 
 ### Running locally
 
