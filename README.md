@@ -17,7 +17,7 @@ To test locally, run the following in your terminal:
 
 ### Customizing
 
-First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
+First you'll want to fork the repo to your own account. Then clone it locally and customize, or you can also use the GitHub web editor to customize.
 
 #### Options/configuration
 
