@@ -1,6 +1,6 @@
-# resume-template
+# osm resume-template
 
-*A simple Jekyll + GitHub Pages powered resume template.*
+*A simple Jekyll + GitHub Pages powered by resume template.*
 
 ![img](images/screenshot.png)
 
