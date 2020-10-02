@@ -12,7 +12,7 @@
     font-weight: 900;
     font-size: 1.75rem;
     letter-spacing: -.05rem;
-    margin: 0;
+//     margin: 0;
   }
 }
 
@@ -63,7 +63,7 @@
 
       @include media_larger_than_mobile {
         float: left;
-        margin: 0;
+//         margin: 0;
       }
     }
   }
@@ -74,8 +74,8 @@
 }
 
 .icon-links {
-  margin: 0;
-  padding: 0;
+//   margin: 0;
+//   padding: 0;
   list-style: none;
   position: relative;
   top: 4px;
@@ -174,7 +174,7 @@
   margin-bottom: 3rem;
 
   .footer-line {
-    margin: 0;
+//     margin: 0;
     font-size: .875rem;
     color: #999;
 
@@ -213,7 +213,7 @@
 
     .resume-item-details {
       font-size: 12px;
-      margin: 0;
+//       margin: 0;
       line-height: .7em;
       font-style:italic;
     }
